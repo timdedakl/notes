@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Resolved TODO items from previous session
 - Added CONTRIBUTING.md stub
+
+## 2026-06-13
+- Refactored module structure for clarity
+- Bumped patch version
